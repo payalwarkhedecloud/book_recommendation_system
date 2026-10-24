@@ -1,0 +1,21 @@
+book_id,title,author,genres,themes,reading_level,length_category,language,mood,description
+B001,Pride and Prejudice,Jane Austen,Romance;Classic,love;marriage;society,Intermediate,Long,English,Romantic;Thought-provoking,"A classic novel exploring love, manners, family, and social expectations."
+B002,Frankenstein,Mary Shelley,Science Fiction;Classic;Horror,science;ethics;creation;ambition,Intermediate,Medium,English,Thought-provoking;Dark,"A novel examining scientific ambition, responsibility, and isolation."
+B003,The Time Machine,H. G. Wells,Science Fiction;Adventure,time travel;future;society;science,Beginner,Short,English,Adventurous;Thought-provoking,A short science-fiction journey into the distant future.
+B004,The Adventures of Sherlock Holmes,Arthur Conan Doyle,Mystery;Crime;Classic,deduction;investigation;logic,Intermediate,Medium,English,Suspenseful;Thought-provoking,A collection of detective stories centred on observation and deduction.
+B005,Alice's Adventures in Wonderland,Lewis Carroll,Fantasy;Classic;Adventure,imagination;absurdity;curiosity,Beginner,Short,English,Whimsical;Lighthearted,A fantastical journey through an imaginative and unusual world.
+B006,Dracula,Bram Stoker,Horror;Classic,vampires;supernatural;fear,Intermediate,Long,English,Dark;Suspenseful,A Gothic horror novel told through letters and diary entries.
+B007,The Secret Garden,Frances Hodgson Burnett,Fiction;Classic,friendship;healing;nature,Beginner,Medium,English,Comforting;Hopeful,"A story of friendship, nature, and personal change."
+B008,The Wonderful Wizard of Oz,L. Frank Baum,Fantasy;Adventure;Classic,journey;friendship;courage,Beginner,Short,English,Adventurous;Lighthearted,"A fantasy adventure about courage, friendship, and finding one's way home."
+B009,The Picture of Dorian Gray,Oscar Wilde,Classic;Gothic,beauty;morality;identity,Advanced,Medium,English,Dark;Thought-provoking,"A philosophical novel about vanity, morality, and consequences."
+B010,The War of the Worlds,H. G. Wells,Science Fiction;Adventure,aliens;invasion;survival,Intermediate,Medium,English,Suspenseful;Adventurous,A science-fiction story of an invasion from Mars.
+B011,Emma,Jane Austen,Romance;Classic,relationships;community;self-knowledge,Intermediate,Long,English,Lighthearted;Thought-provoking,A social comedy about matchmaking and self-understanding.
+B012,The Call of the Wild,Jack London,Adventure;Classic,nature;survival;animals,Beginner,Short,English,Adventurous;Emotional,An adventure about survival and adaptation in the wilderness.
+B013,The Yellow Wallpaper,Charlotte Perkins Gilman,Classic;Horror,mental health;confinement;identity,Intermediate,Short,English,Dark;Thought-provoking,A short story about confinement and a narrator's changing perception.
+B014,The Republic,Plato,Philosophy;Classic,justice;politics;knowledge,Advanced,Long,English,Thought-provoking,A philosophical dialogue exploring justice and the ideal state.
+B015,Meditations,Marcus Aurelius,Philosophy;Nonfiction,ethics;self-reflection;stoicism,Intermediate,Medium,English,Calming;Thought-provoking,A collection of personal reflections on ethics and Stoic philosophy.
+B016,The Art of War,Sun Tzu,Philosophy;Strategy;Nonfiction,strategy;leadership;conflict,Beginner,Short,English,Thought-provoking,A concise classic text on strategy and conflict.
+B017,The Prince,Niccolò Machiavelli,Philosophy;Politics;Classic,power;leadership;politics,Advanced,Short,English,Thought-provoking;Dark,A political treatise on power and governance.
+B018,Treasure Island,Robert Louis Stevenson,Adventure;Classic,pirates;treasure;journey,Beginner,Medium,English,Adventurous;Suspenseful,A classic adventure involving a treasure map and a sea voyage.
+B019,The Great Gatsby,F. Scott Fitzgerald,Classic;Fiction,ambition;wealth;love;illusion,Intermediate,Short,English,Thought-provoking;Emotional,"A novel about ambition, wealth, love, and the American Dream."
+B020,The Jungle Book,Rudyard Kipling,Adventure;Fantasy;Classic,animals;belonging;survival,Beginner,Medium,English,Adventurous;Lighthearted,Stories of Mowgli and animal life in the jungle.
